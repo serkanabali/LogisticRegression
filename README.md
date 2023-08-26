@@ -1,0 +1,2 @@
+# LogisticRegression
+Kredi notu hesaplama
